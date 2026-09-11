@@ -85,3 +85,4 @@ If you later host the frontend separately, set `FRONTEND_ORIGINS` in the backend
 ## Important note about translation provider
 
 `deep-translator` uses an unofficial Google Translate web endpoint. It is suitable for a portfolio/demo application, but it is not the right choice for a high-volume commercial product. For production business usage, replace it with an official translation API and keep its credentials in Vercel environment variables.
+# translation fix check
